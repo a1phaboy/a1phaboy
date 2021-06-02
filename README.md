@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👻 hostname : a1phaboy
 - 🌱 whoami : Red Team/A security company
-- 👯 schtasks : Sleeping, eating, hunting
+- 👯 schtasks : Sleeping, eating, learning and hunting
 - 🤔 pwd : Earth/China/Shanghai
 - 😜 How to reach me : Maybe on the Internet
 - 😄 Pronouns : Talk is cheap, show me the exp

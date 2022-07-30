@@ -9,3 +9,6 @@
 - 🌊 A WEB CTFER, JUST ROOKIE
 - ⚡️ TODO : VULNERABILITY MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 - 🎵 EDM
+
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/a1phaboy/count.svg)

@@ -7,7 +7,7 @@
 - 🧠 C/GO/JAVA/PYTHON PROGRAMMER
 - 💼 CAREER : RED TEAM
 - 🌊 ~~A WEB CTFER, JUST ROOKIE~~ NO LONGER
-- ⚡️ TODO : VULNERABILITY MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
+- ⚡️ TODO : VULNERABILITY MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"><br>
            VULN WEAPONIZED
 - 🎵 EDM
 

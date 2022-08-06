@@ -11,8 +11,8 @@
        VULN WEAPONIZED
 - 🎵 EDM
 
-## 我们终将是历史的执笔人，站在巨人肩膀上去探知唯一的真相
-## We'll be the dancers on the stage, don't be afraid of trying.
+> 我们终将是历史的执笔人，站在巨人肩膀上去探知唯一的真相 <br>
+> We'll be the dancers on the stage, don't be afraid of trying.
 
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/a1phaboy/count.svg)

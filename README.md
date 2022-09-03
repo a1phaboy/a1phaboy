@@ -1,5 +1,4 @@
 ###     About "a1phaboy"🇨🇳
-⚠️ Taiwan is part of China
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=a1phaboy&show_icons=true&icon_color=FF0000&text_color=000000&bg_color=ffffff&hide_title=false" width="450"/>
 
 

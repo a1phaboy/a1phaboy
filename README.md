@@ -4,7 +4,7 @@
 
 - 🌱 JOIN : SINCE 2021
 - 🧠 C/GO/JAVA/PYTHON PROGRAMMER
-- 💼 COMPANY : DarkArmor Lab
+- 💼 DarkArmor Lab
 - 🌊 ~~A WEB CTFER, JUST ROOKIE~~ NO LONGER
 - ⚡️ TODO : VULN MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"><br>
        VULN WEAPONIZED

@@ -1,6 +1,5 @@
 ###     About "a1phaboy"🇨🇳
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=a1phaboy&show_icons=true&icon_color=FF0000&text_color=000000&bg_color=ffffff&hide_title=false" width="450"/>
-
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=a1phaboy&theme=dark&date_format=%5BY%20%5DM%20j">
 
 - 🌱 JOIN : SINCE 2021
 - 🧠 C/GO/JAVA/PYTHON PROGRAMMER

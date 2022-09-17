@@ -1,5 +1,5 @@
 ###     About "a1phaboy"🇨🇳
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=a1phaboy&theme=dark&date_format=%5BY%20%5DM%20j">
+<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=a1phaboy&theme=dark&date_format=%5BY%20%5DM%20j">
 
 - 🌱 JOIN : SINCE 2021
 - 🧠 C/GO/JAVA/PYTHON PROGRAMMER

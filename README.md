@@ -16,4 +16,4 @@
 > We'll be the dancers on the stage, don't be afraid of trying.  
   
 
-<img src="https://raw.githubusercontent.com/a1phaboy/a1phaboy/main/assets/github-contribution-grid-snake.svg" width = "420" height = "160" div align=left />
+<img src="https://raw.githubusercontent.com/a1phaboy/a1phaboy/main/assets/github-contribution-grid-snake.svg" width = "400" height = "160" div align=left />

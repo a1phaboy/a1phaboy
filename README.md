@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=a1phaboy&show_icons=true&icon_color=FF0000&text_color=000000&bg_color=ffffff&hide_title=false" width="450"/>
 
 - 🌱 JOIN : SINCE 2021
-- 🧠 C/GO/JAVA/PYTHON PROGRAMMER
+- 🧠 GOLANG/C/PYTHON PROGRAMMER
 - 💼 DarkArmor Lab
 - 🌊 ~~ACM ICPC PLAYER~~  
      ~~A WEB CTFER, JUST ROOKIE~~ RED TEAM

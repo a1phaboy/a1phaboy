@@ -3,10 +3,10 @@
 
 - 🌱 JOIN : SINCE 2021
 - 🧠 GOLANG/C/PYTHON PROGRAMMER
-- 💼 ~~DarkArmor Lab~~
+- 💼 ~~DarkArmor Lab~~  
 - 🌊 ~~ACM ICPC PLAYER~~  
-     ~~A WEB CTFER, JUST ROOKIE~~
-     ~~RED TEAM~~
+     ~~A WEB CTFER, JUST ROOKIE~~  
+     ~~RED TEAM~~  
      Security Development Engineer
 - ⚡️ TODO : VULN MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"><br>
        VULN WEAPONIZED

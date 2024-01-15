@@ -7,7 +7,7 @@
 - 🌊 ~~ACM ICPC PLAYER~~  
      ~~A WEB CTFER, JUST ROOKIE~~  
       ~~RED TEAM~~  
-     Security Development Engineer
+     Security Dev Engineer
 - ⚡️ TODO : VULN MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"><br>
        VULN WEAPONIZED
 - 🎵 EDM  

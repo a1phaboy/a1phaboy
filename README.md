@@ -8,8 +8,10 @@
      ~~A WEB CTFER, JUST ROOKIE~~  
       ~~RED TEAM~~  
      Security Dev Engineer
-- ⚡️ TODO : VULN MINING ON WEB<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"><br>
-       VULN WEAPONIZED
+- ⚡️ TODO : ~VULN MINING ON WEB~<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"><br>
+       ~VULN WEAPONIZED~
+       Native Cloud Security
+       
 - 🎵 EDM  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1phaboy&layout=compact" width="400"/>  
